@@ -1,1 +1,1 @@
-# Logistic-Regression---Advertising
+# Logistic-Regression-Advertising
